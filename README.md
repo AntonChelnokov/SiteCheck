@@ -23,19 +23,19 @@ after that we can make requests!
 
 ## Methods
 
-**getParseUrl** - Get the URL array (full or partial)
-**getDomTree** - Return HTML tree (DOM)
-**getFaviconLink** - Get favicon link
-**howManyTags** - How many tags $tag in html tree
-**hasDescription** - Has html tree tag meta[name='description']
-**getDescriptionText** - Get meta[name='description'] content value
-**getDescriptionLength** - meta[name='description'] content length
-**hasKeywords** - Has html tree tag meta[name='keywords']
-**getKeywordsText** - Get meta[name='keywords'] content value
-**getKeywordsLength** - meta[name='keywords'] content length
-**explodeKeywords** - To split a meta[name='keywords'] into words
-**getAllId** - Get all ID attributes on the page
-**getDublicateId** - Get all duplicate ID attributes on the page
-**getPageTitle** - Get page title
-**getPageTitleLength** - Get page title length
-**getAllLinks** - Get all links with attributes
+- **getParseUrl** - Get the URL array (full or partial)
+- **getDomTree** - Return HTML tree (DOM)
+- **getFaviconLink** - Get favicon link
+- **howManyTags** - How many tags $tag in html tree
+- **hasDescription** - Has html tree tag meta[name='description']
+- **getDescriptionText** - Get meta[name='description'] content value
+- **getDescriptionLength** - meta[name='description'] content length
+- **hasKeywords** - Has html tree tag meta[name='keywords']
+- **getKeywordsText** - Get meta[name='keywords'] content value
+- **getKeywordsLength** - meta[name='keywords'] content length
+- **explodeKeywords** - To split a meta[name='keywords'] into words
+- **getAllId** - Get all ID attributes on the page
+- **getDublicateId** - Get all duplicate ID attributes on the page
+- **getPageTitle** - Get page title
+- **getPageTitleLength** - Get page title length
+- **getAllLinks** - Get all links with attributes
